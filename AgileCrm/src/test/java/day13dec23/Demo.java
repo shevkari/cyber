@@ -8,6 +8,8 @@ public class Demo {
 		int a=10;
 		int b=19;
 		System.out.println(a+b);
+		System.out.println(b-a);
+		System.out.println(a*b);
 
 	}
 
