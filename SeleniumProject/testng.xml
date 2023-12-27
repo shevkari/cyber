@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumSuite">
+  <test thread-count="5" name="SeleniumTest">
+    <classes>
+		<class name="day23nov23DataProvider.Payment"/>
+      <class name="day23nov23DataProvider.Shipping"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
