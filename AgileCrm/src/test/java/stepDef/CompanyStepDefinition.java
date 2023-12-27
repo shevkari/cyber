@@ -18,7 +18,7 @@ public class CompanyStepDefinition {
 	{
 		specification=RestAssured.given().relaxedHTTPSValidation();
 		
-		specification.baseUri("https://rest_api.agilecrm.com/")
+		specification.baseUri("https://rest.agilecrm.com/")
 		.basePath("dev/api/contacts/companies/")
 		.auth().basic("Rest_Api@yopmail.com", "1nu9s51u47ssmc4jdlb8qinvtm")
 		.header("Accept","application/json")

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-27T19:47:11 IST" name="Suite" finished-at="2023-12-27T19:48:16 IST" duration-ms="64894">
+    <groups>
+    </groups>
+    <test started-at="2023-12-27T19:47:11 IST" name="Test" finished-at="2023-12-27T19:48:16 IST" duration-ms="64894">
+      <class name="com.cs.tests.AddCustomerTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cs.tests.AddCustomerTests@10e31a9a]" started-at="2023-12-27T19:47:11 IST" name="setUp" finished-at="2023-12-27T19:47:18 IST" duration-ms="6631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddCustomerTest()[pri:0, instance:com.cs.tests.AddCustomerTests@10e31a9a]" started-at="2023-12-27T19:47:18 IST" name="AddCustomerTest" finished-at="2023-12-27T19:48:15 IST" duration-ms="57665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cs.tests.AddCustomerTests@10e31a9a]" started-at="2023-12-27T19:48:15 IST" name="tearDown" finished-at="2023-12-27T19:48:16 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cs.tests.AddCustomerTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
