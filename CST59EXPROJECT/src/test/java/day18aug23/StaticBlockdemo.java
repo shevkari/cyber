@@ -22,6 +22,7 @@ public class StaticBlockdemo {
 	{
 		System.out.println("Display() method is called from #2 static block");
 		age = age+10;
+		
 	}
 	
 	public static void main(String[] args) {

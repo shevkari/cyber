@@ -20,7 +20,8 @@ public class LaunchBrowser {
 		
 		driver.get("https:\\www.amazon.in");
 		
-		//driver.close();
+	//	driver.close();
+		driver.quit();
 		
 	}
 

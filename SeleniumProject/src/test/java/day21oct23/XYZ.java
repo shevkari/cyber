@@ -1,7 +1,4 @@
 package day21oct23;
-
-
-
 	
 	import org.openqa.selenium.By;
 	import org.openqa.selenium.WebDriver;

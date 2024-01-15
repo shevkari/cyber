@@ -15,7 +15,7 @@ public class Palindrome {
 		System.out.println(starArr);
 		if(str.equals(starArr))
 		{
-			System.out.println("Palindrome");
+			System.out.println(starArr +" is Palindrome");
 		}
 			
 	}
